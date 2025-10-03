@@ -59,7 +59,3 @@ git push
 ```
 
 Then go to GitHub and open a **Pull Request** from your branch to `main`.
-
----
-
-Let me know if you’d like to add a grading rubric, student checklist, or CI badge to this README.
