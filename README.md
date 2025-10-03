@@ -4,7 +4,7 @@ This repository is a starter template for building and testing trading strategie
 
 ### 🧩 Step 1: Create Your Own Repository
 
-1. Go to [trading-ci-lab](https://github.com/your-username/trading-ci-lab)  
+1. Go to [trading-ci-lab](https://github.com/sdonadio/trading-ci-lab)
 2. Click the green **“Use this template”** button  
 3. Name your new repository (e.g., `ci-homework-01`)  
 4. Choose **Public** or **Private**  
